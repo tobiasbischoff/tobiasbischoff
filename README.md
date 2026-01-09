@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **tobiasbischoff/tobiasbischoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,12 +24,12 @@ Here are some ideas to get you started:
 - ⌚︎ [truefold.de](https://truefold.de) - Check your Watches, Sneakers and Bags for authenticity
   
 🤖 **Clawdbot Contributor** – Developing skills and extensions for [Clawdbot](https://github.com/cladocs/clawdbot), an AI assistant platform. Building Go CLI tools and integrations.
-- Contribution to [clawdbot](https://github.com/clawdbot/clawdbot) 
+- Contribution to [clawdbot](https://github.com/clawdbot/clawdbot) itself
 - [fizzy-cli](https://github.com/tobiasbischoff/fizzy-cli) CLI Tool and agentskill to access and manage kanban boards hostet with [fizzy.do](https://www.fizzy.do/)
 - [bambu-cli](https://github.com/tobiasbischoff/bambu-cli) CLI Tols and agentskill to manage and query Bambu Labs 3D Printers
 
 🔧 **Side Projects** – Android apps, web tools, whatever solves a problem I care about.
-- 📚 [cloudlib]([https://truefold.de](https://github.com/tobiasbischoff/cloudlib)) Webbased eBook Reader (.epub files)
+- 📚 [cloudlib](https://github.com/tobiasbischoff/cloudlib) Webbased eBook Reader (.epub files)
 
 ## Stack
 
