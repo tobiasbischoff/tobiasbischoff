@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🪢 **WebApps** - MicroSaaS Applications that cater to specific needs
 - ⌚︎ [truefold.de](https://truefold.de) - Check your Watches, Sneakers and Bags for authenticity
   
-🤖 **Moltbot Contributor** – Developing skills and extensions for [Clawdbot](https://github.com/moltbot/moltbot), an AI assistant platform. Building Go CLI tools and integrations.
+🤖 **Moltbot Contributor** – Developing skills and extensions for [Moltbot](https://github.com/moltbot/moltbot) (previously clawdbot), an AI assistant platform. Building Go CLI tools and integrations.
 - Contribution to [moltbot](https://github.com/moltbot/moltbot) itself
 - [fizzy-cli](https://github.com/tobiasbischoff/fizzy-cli) CLI Tool and agentskill to access and manage kanban boards hostet with [fizzy.do](https://www.fizzy.do/)
 - [bambu-cli](https://github.com/tobiasbischoff/bambu-cli) CLI Tols and agentskill to manage and query Bambu Labs 3D Printers
