@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Contribution to [OpenClaw](https://github.com/openclaw/openclaw) itself
 - [fizzy-cli](https://github.com/tobiasbischoff/fizzy-cli) CLI Tool and agentskill to access and manage kanban boards hostet with [fizzy.do](https://www.fizzy.do/)
 - [bambu-cli](https://github.com/tobiasbischoff/bambu-cli) CLI Tols and agentskill to manage and query Bambu Labs 3D Printers
-- [openclawnews](https://github.com/tobiasbischoff/moltbotnews) a AI Assistet Change Tracker for Github Repos, i use it to keep track of changes to clawdbot at [cbn.tobibsf.xyz](https://cbn.tobibsf.xyz)
+- [openclawnews](https://github.com/tobiasbischoff/openclawnews) a AI Assistet Change Tracker for Github Repos, i use it to keep track of changes to openclaw.ai
 - [pingen-cli](https://github.com/tobiasbischoff/pingen-cli) CLI Tools to teach your Agent to send real letters by utilizing the API of [pingen.de](https://www.pingen.de/de/)
 - [bahn-cli](https://github.com/tobiasbischoff/bahn-cli) CLI Tool to search Deutsche Bahn train connections between German stations
 
