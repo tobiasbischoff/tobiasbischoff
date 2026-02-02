@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 🪢 **WebApps** - MicroSaaS Applications that cater to specific needs
 - ⌚︎ [truefold.de](https://truefold.de) - Check your Watches, Sneakers and Bags for authenticity
+- 🦞[lobsterlair.xyz](https://lobsterlair.xyz/) - Hosted OpenClaw, secure and via simple Web Onboarding
   
 🤖 **OpenClaw Contributor** – Developing skills and extensions for [OpenClaw.ai](https://github.com/openclaw/openclaw) (previously clawdbot), an AI assistant platform. Building Go CLI tools and integrations.
 - Contribution to [OpenClaw](https://github.com/openclaw/openclaw) itself
