@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 🔧 **Side Projects** – Android apps, web tools, whatever solves a problem I care about.
 - 📚 [cloudlib](https://github.com/tobiasbischoff/cloudlib) Webbased eBook Reader (.epub files)
+- 🎬 [tiktoksubs](https://github.com/tobiasbischoff/tiktoksubs) CLI for adding TikTok-style burned-in captions to vertical MP4 videos using WhisperKit and ffmpeg
 - 🌧️ [polymarket-weather-bot](https://github.com/tobiasbischoff/polymarket-weather-bot) Automated weather trading bot for Polymarket prediction markets — a fun experiment that taught expensive lessons about market efficiency
 
 ## Stack
