@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 Go • TypeScript • Node.js • Shopify • AI/LLM tooling
 
 
-*Always working on something. Currently shipping Shopify apps and making Clawdbot smarter.*
+*Always working on something. Currently shipping Shopify apps and making OpenClaw smarter.*
