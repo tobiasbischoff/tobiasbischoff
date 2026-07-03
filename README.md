@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ## What I'm Building
 
 🛍️ **Shopify Apps** – Creating tools that help merchants run their stores better:
-- 🧾 [InvoiceSafe](https://apps.shopify.com/invoicesafe) - European GDPR-Safe Invoices automatically generated and sended to your customers
+- 🧾 [InvoiceSafe](https://apps.shopify.com/invoicesafe) - European GDPR-safe invoices automatically generated and sent to your customers
+- 📦 [Restocky](https://apps.shopify.com/restocky-2) - Forecast demand, create purchase orders, and keep inventory stocked — a modern Stocky replacement
+- ⭐ [ClearProof Reviews](https://apps.shopify.com/clearproof-reviews) - Import, filter, and display product reviews from external sources with AI cleanup
 
 🪢 **WebApps** - MicroSaaS Applications that cater to specific needs
 - ⌚︎ [truefold.de](https://truefold.de) - Check your Watches, Sneakers and Bags for authenticity
