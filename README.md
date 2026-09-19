@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 📦 [Restocky](https://apps.shopify.com/restocky-2) - Forecast demand, create purchase orders, and keep inventory stocked — a modern Stocky replacement
 - ⭐ [ClearProof Reviews](https://apps.shopify.com/clearproof-reviews) - Import, filter, and display product reviews from external sources with AI cleanup
 
-🪢 **WebApps** - MicroSaaS Applications that cater to specific needs
-- ⌚︎ [truefold.de](https://truefold.de) - Check your Watches, Sneakers and Bags for authenticity
-- 🦞[lobsterlair.xyz](https://lobsterlair.xyz/) - Hosted OpenClaw, secure and via simple Web Onboarding
-  
+🐧 **Omarchy** – Daily driving and tinkering with Omarchy, the opinionated Arch + Hyprland desktop
+- 🏛️ [omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux ([omarchy.org](https://omarchy.org))
+- ✍️ [omawrite](https://github.com/omacom/omawrite) - The essence of writing
+
 🤖 **OpenClaw Contributor** – Developing skills and extensions for [OpenClaw.ai](https://github.com/openclaw/openclaw) (previously clawdbot), an AI assistant platform. Building Go CLI tools and integrations.
 - Contribution to [OpenClaw](https://github.com/openclaw/openclaw) itself
 - [fizzy-cli](https://github.com/tobiasbischoff/fizzy-cli) CLI Tool and agentskill to access and manage kanban boards hostet with [fizzy.do](https://www.fizzy.do/)
