@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🧾 [InvoiceSafe](https://apps.shopify.com/invoicesafe) - European GDPR-safe invoices automatically generated and sent to your customers
 - 📦 [Restocky](https://apps.shopify.com/restocky-2) - Forecast demand, create purchase orders, and keep inventory stocked — a modern Stocky replacement
 - ⭐ [ClearProof Reviews](https://apps.shopify.com/clearproof-reviews) - Import, filter, and display product reviews from external sources with AI cleanup
+- 📊 [MarginPeek](https://marginpeek.com) - Know if your store is actually profitable: Shopify sales minus product costs, shipping, fees and Meta/Google ad spend *(coming soon)*
 
 🐧 **Omarchy** – Daily driving and tinkering with Omarchy, the opinionated Arch + Hyprland desktop
 - 🏛️ [omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux ([omarchy.org](https://omarchy.org))
